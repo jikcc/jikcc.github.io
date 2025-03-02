@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: CentOS搭建开发环境
+title: 内含哪吒、太乙、申公豹、敖丙姑姑、敖丙、蜡笔小新、孙颖莎、潘宏Android+IOS导航语音包（附安装教程）
 categories: [地图]
 ---
 安卓 苹果都可以使用，有百度和高德两种语音包
