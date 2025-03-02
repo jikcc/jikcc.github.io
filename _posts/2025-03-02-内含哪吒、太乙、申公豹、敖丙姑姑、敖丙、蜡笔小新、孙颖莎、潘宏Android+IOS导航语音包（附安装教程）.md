@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: CentOS搭建开发环境
-categories: [Linux]
+categories: [地图]
 ---
 1、太乙真人导航语音包（先保存，下载更快）
 2、申公的导航语音包
