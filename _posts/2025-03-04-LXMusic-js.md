@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: LX Music洛雪音乐在线音源js接口
-categories: [影音接口]
+categories: [网络接口]
 ---
 
 
