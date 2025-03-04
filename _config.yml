@@ -60,4 +60,7 @@ extCount: false
 links:
   - title: jk软网
     url: https://jikcc.github.io
-
+  - title: TVbox接口
+    url: https://jikcc.github.io/posts/2025/03/04/TVBOX.html
+  - title: LX Music洛雪音乐接口
+    url: https://jikcc.github.io/posts/2025/03/04/LXMusic-js.html
