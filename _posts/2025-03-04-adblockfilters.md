@@ -11,7 +11,7 @@ categories: [网络接口]
 | adblockdns      | [规则加速链接](https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockdns.txt) | AdGuard、AdGuard Home 等 |
 | adblockdnslite      |   [规则加速链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt)    |   AdGuard、AdGuard Home 等 |
 | adblockdomain |   [规则加速链接](https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockdomain.txt)    |    InviZible Pro、personalDNSfilter |
-| DNSMasq |   [规则加速链接]https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockdnsmasq.txt)    |    DNSMasq 使用 |
+| DNSMasq |   [规则加速链接](https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockdnsmasq.txt)    |    DNSMasq 使用 |
 | SmartDNS |   [规则加速链接](https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblocksmartdns.conf)    |    SmartDNS路由器使用 |
 
-```md
+
