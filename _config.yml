@@ -24,7 +24,7 @@ domainUrl: 'jikcc.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://waline.llov.eu.org
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -36,7 +36,7 @@ menu:
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: TvBox接口
+  - title: 网络规则接口
     url: /pages/links.html
   - title: 留言
     url: /pages/chat.html
