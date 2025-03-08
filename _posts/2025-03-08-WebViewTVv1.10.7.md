@@ -71,6 +71,10 @@ FolderSync Pro 是一款专为 Android 设备设计的文件夹同步与备份�
 
 ### **下载地址** 
 
+手机扫码下载：
+
+![ _5_.png](https://s2.loli.net/2025/03/08/UXojP4AB8DZ2bxz.png)
+
 [https://pan.quark.cn/s/aad622a7e82b](https://pan.quark.cn/s/aad622a7e82b)
 
 [https://pan.xunlei.com/s/VOKp1BwRxTDbJNN7yRAbieKwA1?pwd=farr#](https://pan.xunlei.com/s/VOKp1BwRxTDbJNN7yRAbieKwA1?pwd=farr#)
@@ -81,5 +85,4 @@ FolderSync Pro 是一款专为 Android 设备设计的文件夹同步与备份�
 
 [https://androidapk.lanzouq.com/iCq5p2pzl1fa](https://androidapk.lanzouq.com/iCq5p2pzl1fa)
 
-手机扫码下载：
-![ _5_.png](https://s2.loli.net/2025/03/08/UXojP4AB8DZ2bxz.png)
+
