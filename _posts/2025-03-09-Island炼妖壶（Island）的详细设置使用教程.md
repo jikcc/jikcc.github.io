@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: Gradle快速入门
-categories: [Java]
+title: Island炼妖壶（Island）的详细设置使用教程
+categories: [安卓教程]
 ---
 
 以下是 **Island炼妖壶（Island）的详细使用教程**，涵盖基础操作与进阶功能，帮助快速上手：
