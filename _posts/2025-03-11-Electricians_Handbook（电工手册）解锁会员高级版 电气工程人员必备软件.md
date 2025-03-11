@@ -61,6 +61,9 @@ DIY爱好者：家庭电路改造、电器维修指南。
 > 本版已经解锁VIP高级版 无需付费使用高级功能
 **下载**：
 
+手机扫码保存下载
+![](https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/IMG/xiazai.png)
+
 [https://pan.quark.cn/s/0dd7be5122e9](https://pan.quark.cn/s/0dd7be5122e9)
 
 [https://pan.xunlei.com/s/VOL3-1K_g2qpxHAXL8vnEVxYA1?pwd=4cvk# ](https://pan.xunlei.com/s/VOL3-1K_g2qpxHAXL8vnEVxYA1?pwd=4cvk#)
@@ -70,3 +73,4 @@ DIY爱好者：家庭电路改造、电器维修指南。
 
 [https://caiyun.139.com/m/i?2jQXiS4eBymj1](https://caiyun.139.com/m/i?2jQXiS4eBymj1)  
  提取码:x79j  
+ 
