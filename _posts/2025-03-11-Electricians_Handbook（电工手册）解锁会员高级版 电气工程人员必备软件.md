@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Electricians_Handbook（电工手册）解锁会员高级版 电气工程人员必备软件
-categories: [Java]
+categories: [安卓破解软件]
 ---
 
 **Electricians_Handbook（电工手册）** 是一款专为电工及电气工作者设计的安卓工具类APP，**核心功能与特色如下**：  
