@@ -60,3 +60,13 @@ DIY爱好者：家庭电路改造、电器维修指南。
 功能全面、界面简洁、无广告干扰
 > 本版已经解锁VIP高级版 无需付费使用高级功能
 **下载**：
+
+[https://pan.quark.cn/s/0dd7be5122e9](https://pan.quark.cn/s/0dd7be5122e9)
+
+[https://pan.xunlei.com/s/VOL3-1K_g2qpxHAXL8vnEVxYA1?pwd=4cvk# ](https://pan.xunlei.com/s/VOL3-1K_g2qpxHAXL8vnEVxYA1?pwd=4cvk#)
+
+[https://pan.baidu.com/s/1rdSzrKCwAdwuw7pFsUnkwg?pwd=72it](https://pan.baidu.com/s/1rdSzrKCwAdwuw7pFsUnkwg?pwd=72it)
+ 提取码: 72it 
+
+[https://caiyun.139.com/m/i?2jQXiS4eBymj1](https://caiyun.139.com/m/i?2jQXiS4eBymj1)  
+ 提取码:x79j  
