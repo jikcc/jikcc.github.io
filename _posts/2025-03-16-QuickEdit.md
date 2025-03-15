@@ -6,7 +6,7 @@ categories: [安卓软件]
 
 **QuickEdit 简介**  
 **QuickEdit** 是一款专为 Android 系统设计的轻量级文本编辑器，适用于普通用户和开发者，尤其适合需要快速编辑代码或文本文件的场景。以下是其核心特点：
-
+![](https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/IMG/20250316013649254.jpg)
 ---
 
 ### **主要功能**  
@@ -58,3 +58,4 @@ categories: [安卓软件]
 ---
 
 **总结**：QuickEdit 在功能与简洁性之间取得了平衡，适合追求高效编辑体验的用户。对于轻度编码或文本处理需求，它是 Android 平台上的优质选择。
+
