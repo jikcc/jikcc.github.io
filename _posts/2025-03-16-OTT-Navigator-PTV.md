@@ -8,6 +8,8 @@ categories: [影音直播]
 
 **OTT Navigator IPTV** 是一款专为安卓设备设计的 **IPTV 播放器应用**，用户可通过它访问直播电视频道、视频点播（VOD）等内容。其核心功能是解析和管理用户自定义的播放列表，而非直接提供内容，需用户自行配置合法的节目源。
 
+![](https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io//IMG/20250316160417254.jpeg)
+
 ---
 
 ### **主要特点**
