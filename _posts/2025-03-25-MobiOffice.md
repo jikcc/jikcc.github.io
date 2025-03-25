@@ -5,6 +5,7 @@ categories: [办公工具,安卓软件]
 ---
 
 MobiOffice Premium 是一款专为移动设备优化的办公套件，适用于手机和平板（Android/iOS/Windows），。它让你随时随地处理文档、表格和幻灯片，完美兼容微软Office格式（如.docx, .xlsx, .pptx），堪称“口袋里的Office”。
+
 ![](https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/IMG/20250325161823936.png)
 
 **软件简介**  
@@ -27,10 +28,24 @@ MobiOffice Premium 是一款专为移动设备优化的办公套件，适用于�
   - 3. 演示文稿：支持制作PPT、PPTX、PPS、PPSX等格式的演示文稿，可以使用不同的主题、背景、动画和转场效果。
   - 4. PDF编辑：支持对PDF文件进行注释、标记、签名、裁剪和旋转等操作
 
+**修改说明**  
+```
+MobiOffice: Word, Sheets, PDF [Premium] [Mod Extra]
+by Balatan
+- 解锁高级版，免费畅享高级版特性（注：部分特权需登陆）
+├—免广告；Word文档转换为PDF无水印；保存文档无水印
+├—支持PDF导出Word,Excel,ePub，可将任何文件导出PDF
+
+小提示：反编译后签名原因不可以Google/Adobe账户登陆!
+```
+
+
 **下载地址**  
 
 [https://pan.quark.cn/s/6fe90addae0a](https://pan.quark.cn/s/6fe90addae0a)
 
 [https://pan.baidu.com/s/1q_TLDtDBFc3u4NjBRCtG0g?pwd=416z ](https://pan.baidu.com/s/1q_TLDtDBFc3u4NjBRCtG0g?pwd=416z)
+
+
 
 
