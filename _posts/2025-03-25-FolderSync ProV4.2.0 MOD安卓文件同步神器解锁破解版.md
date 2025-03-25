@@ -6,7 +6,9 @@ categories: [安卓软件]
 
 **FolderSync Pro 简介**  
 FolderSync Pro 是一款专为 Android 设备设计的文件夹同步与备份工具，支持将本地文件夹与多种云存储服务（如 iCloud、Mega、Box、OneDrive、Google Drive、SugarSync、DropBox、ClopudMe、HiDrive、LiveDrive、MyDrive、pCcloud、Own Cloud、Yandexdisk、WebDAV等等）或另一台设备进行双向同步或单向备份。其核心功能包括自动同步、计划任务、文件过滤、加密传输等，适合需要定期备份数据或跨设备同步文件的用户。
-![FolderSync Pro](https://s2.loli.net/2025/03/08/k3sj8g7lOMUocmN.jpg)
+
+![FolderSync](https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/IMG/FolderSync.jpg)
+
 ---
 
 ### **主要功能**  
