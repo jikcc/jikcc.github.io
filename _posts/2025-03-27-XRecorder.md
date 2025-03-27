@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: XRecorder破解版Pro会员版v2.4.1.2 | 手机录屏专业软件
-categories: [适用工具,安卓软件]
+categories: [实用工具,安卓软件]
 ---
 
 ### **流舟文件 简介**  
