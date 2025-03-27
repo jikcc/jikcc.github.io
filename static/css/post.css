@@ -162,3 +162,95 @@
     margin: 15px 0;
   }
 }
+
+/* TOC styles */
+#toc {
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+/* 妗岄潰绔牱寮� */
+@media screen and (min-width: 961px) {
+  #toc {
+    position: fixed;
+    right: 0;
+    top: 100px;
+    width: 250px;
+    max-height: calc(100vh - 150px);
+    overflow-y: auto;
+    padding: 15px 15px 15px 25px;
+    z-index: 99;
+  }
+}
+
+/* 绉诲姩绔牱寮� */
+@media screen and (max-width: 960px) {
+  #toc {
+    position: relative;
+    width: 100%;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.02);
+  }
+}
+
+#toc .toc-header {
+  margin-bottom: 10px;
+}
+
+#toc .toc-title {
+  font-weight: bold;
+  color: #333;
+}
+
+#toc ol {
+  list-style: none;
+  padding-left: 15px;
+  margin: 0;
+}
+
+#toc li {
+  padding: 3px 0;
+}
+
+#toc a {
+  color: #666;
+  text-decoration: none;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  border-bottom: none;
+  margin: 0;
+}
+
+#toc a:hover {
+  color: #333;
+}
+
+#toc .active > a {
+  color: #007bff;
+  font-weight: bold;
+}
+
+/* Dark mode styles */
+body.dark-theme #toc {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+body.dark-theme #toc .toc-title {
+  color: #ddd;
+}
+
+body.dark-theme #toc a {
+  color: #aaa;
+}
+
+body.dark-theme #toc a:hover {
+  color: #ddd;
+}
+
+body.dark-theme #toc .active > a {
+  color: #3391ff;
+}
