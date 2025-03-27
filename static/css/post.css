@@ -169,7 +169,7 @@
   box-sizing: border-box;
 }
 
-/* 妗岄潰绔牱寮� */
+/* 桌面端样式 */
 @media screen and (min-width: 961px) {
   #toc {
     position: fixed;
@@ -183,7 +183,7 @@
   }
 }
 
-/* 绉诲姩绔牱寮� */
+/* 移动端样式 */
 @media screen and (max-width: 960px) {
   #toc {
     position: relative;
