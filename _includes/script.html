@@ -1,7 +1,9 @@
 {%- assign buildAt = site.time | date: "%Y%m%d%H%M%S" -%}
 <script type="text/javascript" src="https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/static/js/blog.js?t={{ buildAt }}"></script>
 <script type="text/javascript" src="https://gcore.jsdelivr.net/gh/jikcc/jikcc.github.io/static/js/search.js?t={{ buildAt }}"></script>
-
+{%- if page.path contains '_posts/' -%}
+<script type="text/javascript" src="{{site.baseurl}}/static/js/toc.js?t={{ buildAt }}"></script>
+{% endif %}
 {%- if site.extClickEffect %}
 <!-- 点击页面文字冒出特效 -->
 <script>
@@ -22,4 +24,10 @@
 
 {%- if site.extCount %}
 <script async src="//cdn.bootcdn.net/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js"></script>
+{% endif %}
+
+{%- if page.path contains '_posts/' -%}
+<script>
+  new TOC();
+</script>
 {% endif %}
