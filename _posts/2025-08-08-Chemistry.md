@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 元素周期表高级版 化学学霸必备工具 Periodic Table 2025: Chemistry v4.0.19 PRO
+title: 元素周期表高级版 化学学霸必备工具 Periodic Table 2025 Chemistry v4.0.19 PRO
 categories: [安卓软件]
 ---
 
