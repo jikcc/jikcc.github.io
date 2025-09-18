@@ -1,0 +1,16 @@
+---
+layout: mypost
+title: 怀旧电玩游戏ROM合集  50T模拟器游戏资源分享
+categories: [模拟器,游戏]
+
+怀旧电玩游戏ROM合集  50T模拟器游戏资源分享                                                            
+
+分享玩收集的模拟器ROM下载。有街机 (CPS1,CPS2,CPS3,IGS ) +（FBA、MAME、PGM2）、3DS、WII、NGC、DC、SS、DOS、MD、WSC、NDS、JAVA、PCE、FC、SFC、GBA、GBC、PSP、PS 、N64、PS1、PS2、PS3、 WIIIU SWITCH PS4 等多种游戏机游戏ROM 包含经典任天堂、世嘉和索尼等常见掌机主机游戏ROM
+游戏太多就不一一介绍了 整整50T资源
+可以慢慢挑选你自己喜欢的游戏
+ROM都是通用的，可以用做主机 手机和电脑的模拟器 都可以玩的
+合集分享 部分游戏ROM也提供了金手指等 HACK等修改版游戏和其他资源
+[https://sway.cloud.microsoft/PeUX2m6dTsv7Na2H](https://sway.cloud.microsoft/PeUX2m6dTsv7Na2H)
+
+
+以上游戏ROM可用于实体机 电脑安卓苹果的模拟器
