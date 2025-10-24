@@ -29,7 +29,7 @@ categories: [电脑游戏,单机游戏]
 3. 在打开的浏览器窗口中登录您的Epic Games Store帐户。
 
 最新版下载地址：
-点击链接或复制整段内容，打开「夸克APP」即可获取。/~a9de38nvhp~:/
+
 链接：[https://pan.quark.cn/s/23013c75abca](https://pan.quark.cn/s/23013c75abca)
 
 更多游戏链接：[https://sink-698.pages.dev/pcgame](https://sink-698.pages.dev/pcgame)
