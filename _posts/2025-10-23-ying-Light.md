@@ -1,11 +1,11 @@
 ---
 layout: mypost
-title: 消逝的光芒:困兽|v1.2.3联机中文版ying Light: The Beast手柄键盘下载 
+title: 消逝的光芒:困兽v1.2.3联机中文版ying Light: The Beast手柄键盘下载 
 categories: [电脑游戏,单机游戏]
 ---
 
 
-消逝的光芒:困兽|v1.2.3联机中文版|ying Light: The Beast|手柄键盘下载                          
+消逝的光芒:困兽|v1.2.3联机中文版ying Light: The Beast手柄键盘下载                          
 
 你是凯尔·克兰，被男爵囚禁，多年来遭受了痛苦的实验。虽然你逃了出来，但是抹不去的伤痛依然存在。由于身体里同时具有人类和丧尸两种DNA，你徘徊在人性的边缘，挣扎着想要控制住内心的野兽，还有随之而来的矛盾冲突。你必须成功，因为是男爵把你变成了这个样子，你要报仇。
 ![](https://s2.loli.net/2025/10/23/WpadZ1OlgR3b8cI.jpg)
