@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 消逝的光芒:困兽v1.2.3联机中文版ying Light: The Beast手柄键盘下载 
+title: 消逝的光芒 困兽v1.2.3联机中文版ying Light The Beast手柄键盘下载 
 categories: [电脑游戏,单机游戏]
 ---
 
