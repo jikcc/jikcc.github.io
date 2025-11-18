@@ -4,7 +4,7 @@ title: LX Music洛雪音乐在线音源js接口
 categories: [网络接口]
 ---
 
-
+2025-11.18
 # LX Music洛雪音乐在线音源接口：复制黏贴到软件内在线接口即可 收集于互联网，如有失效请等待更新或使用别的源地址
 ```
 sixyin	https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
@@ -18,5 +18,6 @@ LX	https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 Flower	https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
 
 ```
+
 
 
