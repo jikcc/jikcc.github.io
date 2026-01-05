@@ -1,0 +1,23 @@
+---
+layout: mypost
+title: OrionTV一个全新的TV电视播放器 支持Apple 电视TV 和 Android TV盒子
+categories: [影视直播]
+---
+
+
+OrionTV一个全新的TV电视播放器 支持Apple 电视TV 和 Android TV盒子                                          
+
+一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。可以自己搭建服务器使用。
+附
+OrionTV部署及观影配置
+NAS在线影视系统MoonTV一键Docker部署教程 打造专属影视库
+
+功能特性
+框架跨平台支持: 同时支持构建 Apple TV 和 Android TV。
+现代化前端: 使用 Expo、React Native TVOS 和 TypeScript 构建，性能卓越。
+Expo Router: 基于文件系统的路由，使导航逻辑清晰简单。
+TV 优化的 UI: 专为电视遥控器交互设计的用户界面。
+下载地址：
+链接：https://pan.quark.cn/s/0131cd7d0e60
+ 影视直播类软件分享【每天更新】
+https://www.kdocs.cn/l/cjoTnsQnkl8d
